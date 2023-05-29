@@ -1,1 +1,3 @@
 # AnalyticsForEconomics_FinalProject
+
+In this project, I investigate the connection between economic factors and crime. utilizing panel data for crime in 25 randomly chosen countries. I will calculate how four independent variables will affect the overall reported crime rate. To analyze the data from 1995 to 2002, I will use a panel data. Crime and GDP growth rate have a negative Gini coefficient relationship. While the unemployment rate and primary enrollment both show a significant positive effect. According to our calculations, the GDP increase is largely responsible for the decline in crime rates during this time.
